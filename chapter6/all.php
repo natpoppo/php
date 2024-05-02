@@ -16,5 +16,7 @@ foreach($data as $row) {
     echo $row['price'];
     echo '</p>';
 }
+// test
+
 
 require '../footer.php';
